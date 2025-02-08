@@ -5,14 +5,18 @@ The competition MUSASME will be joining is the 2024 - 2025 AMSE E-Human Powered 
 # Expectations of Competition Members
 You must have taken the necessary steps to become an official competition member. If you haven't already, consult the [ASME Membership Checklist](https://docs.google.com/document/d/1esOgyAvslK9edDAgdH88jF85isE4b0UZXAwFwrzXpcg/edit?usp=sharing) to ensure you are up to speed. 
 
-Being a part of the competition team will be a time commitment. Over the winter, we will meet every Weekday and Saturday except on holidays. All hands meetings will be on Thursday. We will be planning, researching, CADing, and programming as much as possible. We meet hybrid in Discord and wherever we are set up in a lab (stay tuned on Discord). It would be ideal if you could commit to 4 hours per week. Note the more time you commit, the more successful we will be as a team. Be engaged with the announcements from team leads via GroupMe, [Discord](https://discord.gg/QeHypKaq5s), or email, and be sure to learn as much as you can! 
+Being a part of the competition team **will be a time commitment**. Over the winter, we will meet every Weekday and Saturday except on holidays. All hands meetings will be on Thursday. We will be planning, researching, CADing, and programming as much as possible. We meet hybrid in Discord and wherever we are set up in a lab (stay tuned on Discord). It would be ideal if you could commit to 4 hours per week. Note the more time you commit, the more successful we will be as a team. Be engaged with the announcements from team leads via GroupMe, [Discord](https://discord.gg/QeHypKaq5s), or email, and be sure to learn as much as you can! 
 
 For a team mentality, I recommend watching this quick video on the [Ethics of Gracious Professionalism](https://www.youtube.com/watch?v=9rc1Gbn3oms). 
 
 With that being said, welcome to the team! Finish reading through this section of this document for the competition rules, and get synced up with the rest of the team!
 
 Let’s Prove It To Ourselves!
-
+### Keep in mind available resources
+* Google
+* Youtube
+* Professors
+* Upper classmen / your peers
 
 # Rules of the Competition
 [Click here for the competition rules.](https://drive.google.com/file/d/17_wdljEtARgQ_xexuZB9BOd22OQpE9Sm/view?usp=sharing)
