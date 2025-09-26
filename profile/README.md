@@ -1,4 +1,4 @@
-# Introduction to the EHPV Competition [Video tutorial](https://www.youtube.com/watch?v=_Fr3V214qB0)
+# Introduction to the EHPV Competition
 
 The competition MUSASME will be joining is the 2025 - 2026 AMSE E-Human Powered Vehicle Challenge (e-HPVC). The location and date are to be determined. The university expects to fund students' travel and lodging for the duration of the competition. The university will make its decision based on your participation and collaboration with others.
 
