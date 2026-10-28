@@ -5,7 +5,7 @@ The competition MUSASME will be joining is the 2025 - 2026 AMSE E-Human Powered 
 # Expectations of Competition Members
 You must have taken the necessary steps to become an official competition member. If you haven't already, consult the [ASME Membership Checklist]() to ensure you are up to speed. 
 
-Being a part of the competition team **will be a time commitment**. Over the winter, we will meet every Weekday and Saturday except on holidays. All-hands meetings will be held on Wednesdays. We will plan, research, design using CAD, and program as much as possible. We meet in a hybrid environment, and our setup varies depending on our location within the lab. It would be ideal if you could commit to 4 hours per week. Note that the more time you commit, the more successful we will be as a team. Be engaged with the announcements from team leads via [Teams](https://sway.cloud.microsoft/KBy9SUmouxCur6Yc?ref=Link) and be sure to learn as much as you can! 
+Being a part of the competition team **will be a time commitment**. Over the winter, we will meet every Weekday and Saturday except on holidays. All-hands meetings will be held on Wednesdays. We will plan, research, design using CAD, and program as much as possible. We meet in a hybrid environment, and our setup varies depending on our location within the lab. It would be ideal if you could commit to 4 hours per week. Note that the more time you commit, the more successful we will be as a team. Be engaged with the announcements from team leads via [Teams]() and be sure to learn as much as you can! 
 
 For a team mentality, I recommend watching this quick video on the [Ethics of Gracious Professionalism](https://www.youtube.com/watch?v=9rc1Gbn3oms). 
 
